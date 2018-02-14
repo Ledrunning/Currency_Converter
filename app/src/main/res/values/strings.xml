@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Rates</string>
+    <string name="confirm_button">Подтвердить</string>
+    <string name="cancel_button">Отмена</string>
+</resources>
