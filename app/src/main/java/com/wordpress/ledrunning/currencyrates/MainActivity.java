@@ -211,12 +211,12 @@ public class MainActivity extends AppCompatActivity {
                 // async TASK Run
                 GetRbcExchangeRates async = new GetRbcExchangeRates();
                 async.execute();
-                Toast.makeText(context, "YES", Toast.LENGTH_SHORT).show();
-                Log.d(TAG, "YES");
+                Toast.makeText(context, "Connection establish", Toast.LENGTH_SHORT).show();
+                Log.d(TAG, "Connection establish");
 
             } else {
-                Toast.makeText(context, "NO", Toast.LENGTH_SHORT).show();
-                Log.d(TAG, "NO");
+                Toast.makeText(context, "Connection closed", Toast.LENGTH_SHORT).show();
+                Log.d(TAG, "Connection establish");
             }
         }
     }
