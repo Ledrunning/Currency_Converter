@@ -1,8 +1,9 @@
-# Currency_Converter to Russian ruble with simle UI
-## Application for tablets  
-## Tested only WiFi connection, without mobile network
-* Used RBC API to get current rates from internet
-* You can call a dialogue for converting same currency into Russian rubles
+# Currency_Converter to Russian ruble with simple UI
+## Application for Android tablets all source code is written on Java
+## Tested only with WiFi connection, without mobile network
+* RBC API is used for getting current rates from the internet
+* You can call a dialogue for converting currency into Russian rubles
+
 * Supported currency:
 
 * AUD	Австралийский доллар
